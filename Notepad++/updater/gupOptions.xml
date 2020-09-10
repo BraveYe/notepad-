@@ -1,0 +1,6 @@
+<GUPOptions>
+    <Proxy>
+        <server>10.0.60.80</server>
+        <port>8080</port>
+    </Proxy>
+</GUPOptions>
